@@ -1,0 +1,2 @@
+class AppSpecificException(Exception):
+    pass
